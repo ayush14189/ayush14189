@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Jain</h1>
-<h3 align="center">I'm an Electronics and Communication Engineering undergrad at Netaji Subhas University of Technology with a passion for full-stack web development, exploring the exciting realms of Blockchain and Machine Learning.</h3>
+<h3 align="center">I'm an Electronics and Communication Engineering undergrad at NSUT Delhi with a passion for full-stack web development, exploring the exciting realms of Blockchain and Machine Learning.</h3>
 
 <p align="left"> <a href="https://twitter.com/ayushjain_14189" target="blank"><img src="https://img.shields.io/twitter/follow/ayushjain_14189?logo=twitter&style=for-the-badge" alt="ayushjain_14189" /></a> </p>
 
