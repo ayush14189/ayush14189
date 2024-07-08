@@ -9,9 +9,9 @@
 
 - 💬 Ask me about **React, Node.js, Express.js, Django, MySQL, PostgreSQL, MongoDB, Git & GitHub workflows, Agile methodologies, or problem-solving in web development!**
 
-- 📫 How to reach me **ayushjain.official07@gmail.com**
+- 📫 How to reach me: **ayushjain.official07@gmail.com**
 
-- ⚡ Fun fact **I once wrote an entire program in a language I didn't know, thanks to an accidental coffee spill on my keyboard!**
+- ⚡ Fun fact: **I once wrote an entire program in a language I didn't know, thanks to an accidental coffee spill on my keyboard!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
