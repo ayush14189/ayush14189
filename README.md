@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/f2d8b27c-4b9f-4e57-a33e-a98d7080afd5)
-
 <h1 align="center">Hi 👋, I'm Ayush Jain</h1>
 <h3 align="center">I'm an Open Souce Contributor, with a passion for full-stack web development and a keen interest in exploring Blockchain and Machine Learning.</h3>
 
