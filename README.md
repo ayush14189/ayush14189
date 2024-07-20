@@ -2,8 +2,8 @@
   <img src="avatar.svg" alt="avatar" width="400" height="300">
 </p>
 
-<h1 align="center">Hi 👋, I'm Ayush Jain</h1>
-<h3 align="center">I'm an Open Souce Contributor, with a passion for full-stack web development and a keen interest in exploring Blockchain and Machine Learning.</h3>
+<h1 align="center">Hi👋, I'm Ayush Jain</h1>
+<h3 align="center">I'm an Open Souce Contributor from India, with a passion for full-stack web development and a keen interest in exploring Blockchain and Machine Learning.</h3>
 
 <p align="left"> <a href="https://twitter.com/ayushjain_14189" target="blank"><img src="https://img.shields.io/twitter/follow/ayushjain_14189?logo=twitter&style=for-the-badge" alt="ayushjain_14189" /></a> </p>
 
