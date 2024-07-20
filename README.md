@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="avatar.svg" alt="avatar" width="400" height="300">
+</p>
+
 <h1 align="center">Hi 👋, I'm Ayush Jain</h1>
 <h3 align="center">I'm an Open Souce Contributor, with a passion for full-stack web development and a keen interest in exploring Blockchain and Machine Learning.</h3>
 
