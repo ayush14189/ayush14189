@@ -5,7 +5,7 @@
 <h1 align="center">Hi👋, I'm Ayush Jain</h1>
 <h3 align="center">I'm an Open Souce Contributor from India, with a passion for full-stack web development and a keen interest in exploring Blockchain and Machine Learning.</h3>
 
-<p align="left"> <a href="https://twitter.com/ayushjain_14189" target="blank"><img src="https://img.shields.io/twitter/follow/ayushjain_14189?logo=twitter&style=for-the-badge" alt="ayushjain_14189" /></a> </p>
+<p align="left"> <a href="https://x.com/ayushjain_14189" target="blank"><img src="https://img.shields.io/twitter/follow/ayushjain_14189?logo=twitter&style=for-the-badge" alt="ayushjain_14189" /></a> </p>
 
 - 🌱 I’m currently learning **full-stack web development with a focus on React, Next.js and Node.js, while also exploring Blockchain, Web3 and Machine Learning.**
 
@@ -19,10 +19,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ayushjain_14189" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayushjain_14189" height="30" width="40" /></a>
+<a href="https://x.com/ayushjain_14189" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayushjain_14189" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ayush-jain-techie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-jain-techie" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22963243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22963243" height="30" width="40" /></a>
-<a href="https://instagram.com/ayush.jain_06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayush.jain_06" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ayushushhhhh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayushushhhhh" height="30" width="40" /></a>
 <a href="https://medium.com/@ayush.blogs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ayush.blogs" height="30" width="40" /></a>
 </p>
 
