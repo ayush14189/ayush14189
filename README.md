@@ -9,10 +9,14 @@
 <!--- 🔭 I’m currently working on
 - 👯 I’m looking to collaborate on
 - 🤝 I’m looking for help with -->
-- 🌱 I’m currently learning **full-stack web development with a focus on React, Next.js and Node.js, while also exploring Blockchain, Web3 and Machine Learning.**
+- 🌱 I’m currently learning **full-stack web development with a focus on React, Next.js & Node.js, while also exploring Blockchain, Web3 and Machine Learning.**
+  
 - 📝 I regularly write articles on [https://medium.com/@ayush.blogs](https://medium.com/@ayush.blogs)
+
 - 💬 Ask me about **React, Next.js, Node.js, Express.js, Django, MySQL, PostgreSQL, MongoDB, Git & GitHub workflows, Agile methodologies, or problem-solving in web development!**
+
 - 📫 How to reach me: **ayushjain.official07@gmail.com**
+
 - ⚡ Fun fact: **I once wrote an entire program in a language I didn't know, thanks to an accidental coffee spill on my keyboard!**
 
 ## 🌐 Socials:
