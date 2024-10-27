@@ -6,11 +6,16 @@
 <h3 align="center">I'm an Open Souce Contributor from India, with a passion for full-stack web development and a keen interest in exploring Blockchain and Machine Learning.</h3>
 
 ## 💫 About Me:
-<img align='right' src="avatar.svg" alt="avatar" width="300" />
+<!--<img align='right' src="avatar.svg" alt="avatar" width="300" />-->
 <!--- 🔭 I’m currently working on
 - 👯 I’m looking to collaborate on
 - 🤝 I’m looking for help with -->
 
+<div style="display: flex; justify-content: center; align-items: flex-start; margin-bottom: 20px;">
+    <img align="right" src="avatar.svg" alt="avatar" width="300" style="margin-top: -20px;"/>
+</div>
+<div> 
+  
 - 🌱 I’m currently learning **full-stack web development with a focus on React, Next.js & Node.js, while also exploring Blockchain, Web3 and Machine Learning.**
   
 - 📝 I regularly write articles on [https://medium.com/@ayush.blogs](https://medium.com/@ayush.blogs)
@@ -20,6 +25,7 @@
 - 📫 How to reach me: **ayushjain.official07@gmail.com**
 
 - ⚡ Fun fact: **I once wrote an entire program in a language I didn't know, thanks to an accidental coffee spill on my keyboard!**
+</div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-jain-techie) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@ayush.blogs) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22963243) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ayushjain_14189) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@ayushjain_07) <!--[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/prcqdxzf-the-styleful)--> 
