@@ -15,11 +15,11 @@
     <img align="right" src="avatar.svg" alt="avatar" width="300" style="margin-top: -20px; margin-bottom:20px"/>
 </div>-->
   
-- 🌱 I’m currently learning **full-stack web development with a focus on React, Next.js & Node.js, while also exploring Blockchain, Web3 and Machine Learning.**
+- 🌱 I’m currently learning **full-stack development with a focus on React, Next.js & Node.js, while also exploring Blockchain, Web3 and Machine Learning.**
   
 - 📝 I regularly write articles on [https://medium.com/@ayush.blogs](https://medium.com/@ayush.blogs)
 
-- 💬 Ask me about **React, Next.js, Node.js, Express.js, Django, MySQL, PostgreSQL, MongoDB, Git & GitHub workflows, Agile methodologies, or problem-solving in web development!**
+- 💬 Ask me about **React, Next.js, Node.js, Express.js, Django, MySQL, PostgreSQL, MongoDB or Git & GitHub workflows!**
 
 - 📫 How to reach me: **ayushjain.official07@gmail.com**
 
