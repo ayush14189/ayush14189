@@ -12,7 +12,7 @@
 - 🤝 I’m looking for help with -->
 
 <div style="display: flex; justify-content: center; align-items: flex-start; margin-bottom: 20px;">
-    <img align="right" src="avatar.svg" alt="avatar" width="300" style="margin-top: -20px;"/>
+    <img align="right" src="avatar.svg" alt="avatar" width="300" style="margin-top: -20px; margin-bottom:20px"/>
 </div>
 <div> 
   
