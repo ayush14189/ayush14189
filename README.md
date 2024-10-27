@@ -3,7 +3,7 @@
 </p>-->
 
 <h1 align="center">Hi👋, I'm Ayush Jain</h1>
-<h3 align="center">I'm an Open Souce Contributor from India, with a passion for full-stack web development and a keen interest in exploring Blockchain and Machine Learning.</h3>
+<h3 align="center">Open Source Contributor | Full-Stack Developer and DevOps Engineer | Data Scientist</h3>
 
 ## 💫 About Me:
 <!--<img align='right' src="avatar.svg" alt="avatar" width="300" />-->
