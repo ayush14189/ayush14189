@@ -3,7 +3,7 @@
 </p>-->
 
 <h1 align="center">Hi👋, I'm Ayush Jain</h1>
-<h3 align="center">Open Source Contributor | Full-Stack Developer and DevOps Engineer | Data Scientist</h3>
+<h3 align="center">Open Source Contributor from India | Full-Stack Developer | Passionate about DevOps</h3>
 
 ## 💫 About Me:
 <!--<img align='right' src="avatar.svg" alt="avatar" width="300" />-->
