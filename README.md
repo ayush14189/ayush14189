@@ -16,7 +16,7 @@
     <img align="right" src="avatar.svg" alt="avatar" width="300" style="margin-top: -20px; margin-bottom:20px"/>
 </div>-->
 
-<div>
+<div align="left">
     
 - 🌱 I’m currently learning **full-stack development with a focus on React, Next.js & Node.js, while also exploring Blockchain, Web3 and Machine Learning.**
   
