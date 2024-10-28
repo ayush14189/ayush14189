@@ -15,7 +15,6 @@
 <!--<div style="display: flex; justify-content: center; align-items: flex-start; margin-bottom: 20px;">
     <img align="right" src="avatar.svg" alt="avatar" width="300" style="margin-top: -20px; margin-bottom:20px"/>
 </div>-->
-  <div align="justify">
     
 - 🌱 I’m currently learning **full-stack development with a focus on React, Next.js & Node.js, while also exploring Blockchain, Web3 and Machine Learning.**
   
@@ -26,7 +25,6 @@
 - 📫 How to reach me: **ayushjain.official07@gmail.com**
 
 - ⚡ Fun fact: **I once wrote an entire program in a language I didn't know, thanks to an accidental coffee spill on my keyboard!**
-  </div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-jain-techie) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@ayush.blogs) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22963243) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ayushjain_14189) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@ayushjain_07) <!--[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/prcqdxzf-the-styleful)--> 
