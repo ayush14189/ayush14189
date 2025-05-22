@@ -18,7 +18,7 @@
 
 <div align="left">
     
-- 🌱 I’m currently learning **full-stack development with a focus on React, Next.js & Node.js, while also exploring Blockchain, Web3 and Machine Learning.**
+- 🌱 I’m currently learning **full-stack development with a focus on React, Next.js & Node.js, while also exploring Artificial Intelligence and Machine Learning.**
   
 - 📝 I regularly write articles on [https://medium.com/@ayush.blogs](https://medium.com/@ayush.blogs)
 
