@@ -22,7 +22,7 @@
   
 - 📝 I regularly write articles on [https://medium.com/@ayush.blogs](https://medium.com/@ayush.blogs)
 
-- 💬 Ask me about **React, Next.js, Node.js, Express.js, Django, MySQL, PostgreSQL, MongoDB or Git & GitHub workflows!**
+- 💬 Ask me about **building scalable web apps — from Monoliths to Microservices — using React, Next.js, Node.js, Express.js, FastAPI, SQL/NoSQL databases, Event-Driven Architectures, and GitHub Workflows**
 
 - 📫 How to reach me: **ayushjain.official07@gmail.com**
 
